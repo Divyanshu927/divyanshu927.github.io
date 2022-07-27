@@ -17,7 +17,7 @@
              
               <h1 align="center">
           <font face="Lato" color ="017bf5">
-              POEM
+              POEM 1
               <h3 align="center">
                   <font face="Lato" color="#FFFFE0" size="5">
                      
@@ -35,6 +35,25 @@
                                              <p> ohh please free me <p>
                                           <p>I don't want to be inside<p>
                                              <p>open the container<p>
+			   <h1 align="center">
+          <font face="Lato" color ="017bf5">
+              POEM 2
+              <h3 align="center">
+                  <font face="Lato" color="#FFFFE0" size="5">
+			  
+			  <b>Cuckoo And Happiness</b>
+			  Cuckoo is like my happiness 
+<p>And spring shows its existence<p>
+<p> But the time is of winter<p>
+<p>Never ending winter<p>
+<p> Or maybe I don't want it to end<p> 
+<p>The winter has become cuckoo's pleasure<p>
+<p>Spring may Come back<p>
+<p>Cuckoo may show that it exists<p>
+<p>But i resist spring<p>
+<p>This winter will remain forever<p>
+<p>Cuckoo will cease to exist<p>
+<p>The winter will never end<p>
 
 
                   
