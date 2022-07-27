@@ -1,22 +1,57 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Divyanshu</title>
+         <meta charset="utf-8">
+         <title> 
+                Divyanshu Sharma
+         </title>
 </head>
-<body bgcolor="#FFFFE0">
-<p style="font-size:30px">POEM</p>
-<P style="font-family:'Courier New'"> the container that holds me</p>
+<body background="https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?cs=srgb&dl=pexels-eberhard-grossgasteiger-844297.jpg&fm=jpg">
+          <br/>
+          <h3 align="center">
+              <font face="Lato" size="6">WELCOME</font>
+              &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-   <P style="font-family:'Courier New'">ohh I so want to escape it</p>
-<p style="font-family:'Courier New'">I ask you to open it<p>
-<p style="font-family:'Courier New'">open the container<p>
-<p style="font-family:'Courier New'">I want to be free<p>
-<p style="font-family:'Courier New'">it has been a long time<p>
-<p style="font-family:'Courier New'">somebody caged me in<p>
-<p style="font-family:'Courier New'">now I see the outer world<p>
-<p style="font-family:'Courier New'">full of everything I want<p>
-<p style="font-family:'Courier New'">the darkness and emptiness<p>
-<p style="font-family:'Courier New'">ohh please free me<p>
-<p style="font-family:'Courier New'">I don't want to be inside<p>
-<p style="font-family:'Courier New'">open the container<p>
 
+              <font face="cinzel"size="4">
+                  <a href="#">HOME</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                  <a href="#">POEMS</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                  <a href="#">ESSAYS</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                  <a href="#">STORIES</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                  <a href="#">BLOG</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+              </font>
+              <h1 align="center">
+          <font face="Lato" color ="017bf5">
+              POEM
+              </h1>
+              <h3 align="center">
+                  <font face="Lato" color="#017bf5" size="5">
+                      The Container That Holds Me
+<b>The Container That Holds Me</b>
+                                          <p>the container that holds me<p>
+                                         <p> ohh I so want to escape it<p>
+                                           <p> I ask you to open it<p><p>
+                                            <p> open the container<p>
+                                              <p>I want to be free<p>
+											<p>it has been a long time<p>
+                                             <p>somebody caged me in<p>
+                                          <p> now I see the outer world<p>
+                                          <p> full of everything I want<p>
+                                          <p> the darkness and emptiness<p>
+                                             <p> ohh please free me <p>
+                                          <p>I don't want to be inside<p>
+                                             <p>open the container<p>
+
+
+                  </font>
+              </h3>
+          </h3>
+      <br/>
+
+          </font>
+      </h1>
+</body>
+</html>
