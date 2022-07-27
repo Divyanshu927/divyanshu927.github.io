@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
          <meta charset="utf-8">
@@ -16,17 +16,16 @@
                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 
-              <font face="cinzel"size="4">
+              
                   <a href="#">HOME</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                   <a href="#">POEMS</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                   <a href="#">ESSAYS</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                   <a href="#">STORIES</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                   <a href="#">BLOG</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-              </font>
+             
               <h1 align="center">
           <font face="Lato" color ="017bf5">
               POEM
-              </h1>
               <h3 align="center">
                   <font face="Lato" color="#017bf5" size="5">
                       The Container That Holds Me
@@ -46,12 +45,10 @@
                                              <p>open the container<p>
 
 
-                  </font>
-              </h3>
-          </h3>
+                  
+              
+         
       <br/>
 
-          </font>
-      </h1>
-</body>
-</html>
+          
+     
