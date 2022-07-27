@@ -1,4 +1,3 @@
-# Divyanshu927.github.io
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -20,5 +19,4 @@
 <p style="font-family:'Courier New'">ohh please free me<p>
 <p style="font-family:'Courier New'">I don't want to be inside<p>
 <p style="font-family:'Courier New'">open the container<p>
-</body>
-</html>
+
