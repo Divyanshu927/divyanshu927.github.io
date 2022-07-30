@@ -6,12 +6,9 @@
                 Divyanshu Sharma
          </title>
 </head>
-<style>
-<body background=('https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?cs=srgb&dl=pexels-eberhard-grossgasteiger-844297.jpg&fm=jpg');
- background=no-repeat;
-  background= fixed;
- background size= 100% 100%;>
-  </style>
+
+<body background='https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?cs=srgb&dl=pexels-eberhard-grossgasteiger-844297.jpg&fm=jpg'>
+  
           <br/>
           <h3 align="center">
               <font face="Lato" size="6">WELCOME</font>
