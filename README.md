@@ -70,7 +70,7 @@ h1 align="center">
 <p>be like that kid who would<p>
 <p>walk  barefoot<p>
 <p>just because he thought shoes were precious.<p>
-<p>be like that kid who smiles looking at strangers<p>
+<p>be like that kid who smiled looking at strangers<p>
 <p>just because he thought it was special<p>
 <p>Just because he thought they were special<p>
 
