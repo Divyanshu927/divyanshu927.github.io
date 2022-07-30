@@ -56,13 +56,13 @@
 <p>This winter will remain forever<p>
 <p>Cuckoo will cease to exist<p>
 <p>The winter will never end<p>
-h1 align="center">
+<h1 align="center">
           <font face="Lato" color ="017bf5">
               POEM 3
               <h3 align="center">
                   <font face="Lato" color="#FFFFE0" size="5">
 			  <b> Be like that kid </b>
-			  Steadydark, [7/30/2022 10:01 PM]
+			
 <p>be like that kid who once wanted to put water on sun<p>
 <p>just because he hated the heat<p>
 <p>be like that kid who wanted to put the moon in his bag<p><p>
