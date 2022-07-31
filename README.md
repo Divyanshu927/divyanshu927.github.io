@@ -16,6 +16,14 @@
           <br/>
           <h3 align="center">
               <font face="Lato" size="6">WELCOME</font>
+		   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+
+
+              <font face="cinzel"size="4">
+                  <a href="#">HOME</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
               
 
               
@@ -93,7 +101,7 @@
               <h3 align="center">
                   <font face="Lato" color="#FFFFE0" size="5">
 			  
-			  <b> Be like that kid </b>
+			  <b> Be like </b>
 			
 <p>be like that kid who once wanted to put water on sun<p>
 <p>just because he hated the heat<p>
