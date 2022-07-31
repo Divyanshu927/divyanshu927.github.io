@@ -27,8 +27,9 @@
               <h3 align="center">
                   <font face="Lato" color="#FFFFE0" size="5">
                      
-                                         <b>The Container That Holds Me</b>
+                                       
 <img src="darkjar.png">
+			    <b>The Container That Holds Me</b>
                                           <p>the container that holds me<p>
                                          <p> ohh I so want to escape it<p>
                                            <p> I ask you to open it<p><p>
@@ -50,6 +51,7 @@
               POEM 2
               <h3 align="center">
                   <font face="Lato" color="#FFFFE0" size="5">
+			  <img src="cuckoo.png">
 			  
 			  <b>Cuckoo And Happiness</b>
 			  <p>Cuckoo is like my happiness<p> 
@@ -72,6 +74,7 @@
               POEM 3
               <h3 align="center">
                   <font face="Lato" color="#FFFFE0" size="5">
+			  <img src="kid.png">
 			  <b> Be like that kid </b>
 			
 <p>be like that kid who once wanted to put water on sun<p>
