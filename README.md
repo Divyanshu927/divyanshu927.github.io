@@ -12,12 +12,12 @@
 
    
 
-<body background="https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?cs=srgb&dl=pexels-eberhard-grossgasteiger-844297.jpg&fm=jpg";
-position: fixed; 
-          top: -50%; 
-          left: -50%; 
-          width: 200%; 
-          height: 200%;>
+<body background=("https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?cs=srgb&dl=pexels-eberhard-grossgasteiger-844297.jpg&fm=jpg");
+"position: fixed"; 
+          "top: -50%"; 
+          "left: -50%"; 
+          "width: 200%"; 
+          "height: 200%";>
   
           <br/>
           <h3 align="center">
