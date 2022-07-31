@@ -23,7 +23,7 @@
 
 
               
-                  <a href="<script src="https://gist.github.com/Divyanshu927/77fcbf6e28b1eac8b36928fc69b6f78c.js"></script>">ABOUT</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                  <a href="fc.github.io">ABOUT</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
               
 
               
