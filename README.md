@@ -1,23 +1,17 @@
 
 <html lang="en">
 <head>
-<style>
-   type="text/css">
+
          <meta charset="utf-8">
          <title> 
                 Divyanshu Sharma
          </title>
-	 </style>
+	
 </head>
 
    
 
-<body background="https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?cs=srgb&dl=pexels-eberhard-grossgasteiger-844297.jpg&fm=jpg";
-"position: fixed"; 
-          "top: -50%"; 
-          "left: -50%"; 
-          "width: 200%"; 
-          "height: 200%";>
+<body background="https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?cs=srgb&dl=pexels-eberhard-grossgasteiger-844297.jpg&fm=jpg">
   
           <br/>
           <h3 align="center">
