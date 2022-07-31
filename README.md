@@ -24,11 +24,12 @@
               <h1 align="center">
           <font face="Lato" color ="017bf5">
               POEM 1
+		  <img src="darkjar.png">
               <h3 align="center">
                   <font face="Lato" color="#FFFFE0" size="5">
                      
                                        
-<img src="darkjar.png">
+
 			    <b>The Container That Holds Me</b>
                                           <p>the container that holds me<p>
                                          <p> ohh I so want to escape it<p>
@@ -49,9 +50,10 @@
 			   <h1 align="center">
           <font face="Lato" color ="017bf5">
               POEM 2
+		   <img src="cuckoo.png">
               <h3 align="center">
                   <font face="Lato" color="#FFFFE0" size="5">
-			  <img src="cuckoo.png">
+			  
 			  
 			  <b>Cuckoo And Happiness</b>
 			  <p>Cuckoo is like my happiness<p> 
@@ -72,9 +74,10 @@
 <h1 align="center">
           <font face="Lato" color ="017bf5">
               POEM 3
+		  <img src="kid.png">
               <h3 align="center">
                   <font face="Lato" color="#FFFFE0" size="5">
-			  <img src="kid.png">
+			  
 			  <b> Be like that kid </b>
 			
 <p>be like that kid who once wanted to put water on sun<p>
