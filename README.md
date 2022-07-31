@@ -24,7 +24,7 @@
               <h1 align="center">
           <font face="Lato" color ="017bf5">
               POEM 1
-		  <img src="darkjar.png" height="50" width="50">
+		  <img src="darkjar.png" height="200" width="200">
               <h3 align="center">
                   <font face="Lato" color="#FFFFE0" size="5">
                      
