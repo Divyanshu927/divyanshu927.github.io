@@ -2,10 +2,15 @@
 <html lang="en">
 <head>
 
-         <meta charset="utf-8">
-         <title> 
-                Divyanshu Sharma
-         </title>
+        <style>
+body {
+  background-image: url('https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?cs=srgb&dl=pexels-eberhard-grossgasteiger-844297.jpg&fm=jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
+</style>
 	
 </head>
 
