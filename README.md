@@ -30,6 +30,8 @@ body {
               
                   <a href="fk.html">ABOUT</a> &nbsp; &nbsp;
 	       <a href="#">ESSAYS</a>
+	        <a href="#">STORIES</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                  <a href="https://divyanshusharma27.blogspot.com">BLOGS</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
               
 
