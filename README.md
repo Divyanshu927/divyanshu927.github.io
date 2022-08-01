@@ -78,7 +78,7 @@ body {
 			   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 		   <img src="cuckoo.png">
               <h3 align="center">
-                  <font face="Lato" color="#FFFFE0" size="5">
+                  <font face="Lato" color="#000000" size="5">
 			  
 			  
 			  <b>Cuckoo And Happiness</b>
