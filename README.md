@@ -33,15 +33,19 @@ body {
                   <a href="#">ESSAYS</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                   <a href="#">STORIES</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                   <a href="https://divyanshusharma27.blogspot.com">BLOGS</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-			  <h1> Contact Writer </h1>
+			 <h1> Contact Author </h1>
 <table border="1"> 
 <tr>
-<th>a href="https://www.instagram.com/steadydark/">Instagram</a> </th>
-<th> a href="https://t.me/Steadydark">Telegram</a>> </th>
+<th>Instagram </th>
+<th >Telegram</a> </th>
+
  </tr>
+<tr>
+<td><a href="https://www.instagram.com/steadydark/"> Click Me </a></td>
+<td><a href="https://t.me/Steadydark"> Click Me </a></td>
+</tr>
 
 </table>
-             
               
 
               
