@@ -37,7 +37,7 @@ body {
 <table border="1"> 
 <tr>
 <th>Instagram </th>
-<th >Telegram</a> </th>
+<th >Telegram </th>
 
  </tr>
 <tr>
