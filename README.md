@@ -37,7 +37,7 @@ body {
                  
              
               <h1 align="center">
-          <font face="Lato" color ="017bf5">
+          <font face="Lato" color ="#000000">
               POEM 1
 	     
 		   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -98,7 +98,7 @@ body {
 			   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 			  <b> STEADYDARK </b>
 <h1 align="center">
-          <font face="Lato" color ="017bf5">
+          <font face="Lato" color ="#000000">
               POEM 3
 		   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 			   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
