@@ -20,7 +20,7 @@ body {
   
           <br/>
           <h3 align="center">
-              <font face="Lato" size="6" color="#FFFFFF">WELCOME</font>
+              <font face="Lato" size="6" color="#000000">WELCOME</font>
 		   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -47,7 +47,7 @@ body {
 			   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 		  <img src="darkjar.png" height="400" width="400">
               <h3 align="center">
-                  <font face="Lato" color="#FFFFE0" size="5">
+                  <font face="Lato" color="#000000" size="5">
                      
                                        
 
@@ -69,7 +69,7 @@ body {
 			   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 			  <b> STEADYDARK </b>
 			   <h1 align="center">
-          <font face="Lato" color ="017bf5">
+          <font face="Lato" color ="#000000">
               POEM 2
 		   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 			   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -107,7 +107,7 @@ body {
 			   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 		  <img src="kid.png">
               <h3 align="center">
-                  <font face="Lato" color="#FFFFE0" size="5">
+                  <font face="Lato" color="#000000" size="5">
 			  
 			  <b> Be like </b>
 			
