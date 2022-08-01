@@ -36,8 +36,8 @@ body {
 			  <h1> Contact Writer </h1>
 <table border="1"> 
 <tr>
-<th a href="https://www.instagram.com/steadydark/">Instagram</a> </th>
-<th a href="https://t.me/Steadydark">Telegram</a> </th>
+<th>< a href="https://www.instagram.com/steadydark/">Instagram</a> </th>
+<th>< a href="https://t.me/Steadydark">Telegram</a> </th>
  </tr>
 
 </table>
