@@ -23,7 +23,7 @@
 
 
               
-                  <a href="fk.html">ABOUT</a> 
+                  <a href="fk.html">ABOUT</a> &nbsp; &nbsp;
 	       <a href="#">ESSAYS</a>
 
               
