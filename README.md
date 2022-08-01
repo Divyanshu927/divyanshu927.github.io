@@ -11,7 +11,7 @@
 
    
 
-<body background="https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?cs=srgb&dl=pexels-pixabay-268533.jpg&fm=jpg" align="center">
+<body background="https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?cs=srgb&dl=pexels-pixabay-268533.jpg&fm=jpg" align="center" background="fixed">
   
           <br/>
           <h3 align="center">
