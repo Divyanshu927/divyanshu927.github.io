@@ -34,7 +34,7 @@ body {
                   <a href="#">STORIES</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                   <a href="https://divyanshusharma27.blogspot.com">BLOGS</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 			 <h1> Contact Writer </h1>
-<table border="1" background="https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?cs=srgb&dl=pexels-pixabay-268533.jpg&fm=jpg" align="center"> 
+<table border="1" background="transparent" bgcolor="transparent"> 
 <tr>
 <th>Instagram </th>
 <th >Telegram </th>
