@@ -36,7 +36,7 @@ body {
 			  <font face="Lato" color ="#FFFFFF">
 			 <h1> Contact Writer </h1>
 				   <font face="Lato" color ="#000000">
-<table border="1" background="transparent" bgcolor="transparent"> 
+<table border="1" background="transparent">  
 <tr>
 <th>Instagram </th>
 <th >Telegram </th>
