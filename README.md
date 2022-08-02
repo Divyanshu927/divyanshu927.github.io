@@ -33,7 +33,7 @@ body {
                   <a href="#">ESSAYS</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                   <a href="#">STORIES</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                   <a href="https://divyanshusharma27.blogspot.com">BLOGS</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-			 <h1> Contact Writer </h1>
+			 <h1> Contact Writer color="#FFFFFF"</h1>
 <table border="1" background="transparent" bgcolor="transparent"> 
 <tr>
 <th>Instagram </th>
