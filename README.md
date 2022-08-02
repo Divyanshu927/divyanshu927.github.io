@@ -40,11 +40,12 @@ body {
 <tr>
 <th>Instagram </th>
 <th >Telegram </th>
-
+<th>Gmail </th>
  </tr>
 <tr>
 <td><a href="https://www.instagram.com/steadydark/"> Click Me </a></td>
 <td><a href="https://t.me/Steadydark"> Click Me </a></td>
+	<td><a href="https://mail.google.com/mail/u/0/?tab=wm#inbox?compose=GTvVlcRzDsfVvpSXsldvvsBgRCxftQtxZsHFzWBrfdccGztxwmDKTbPXgfXmzTwhgnNkpjMtjkmpp"> Click Me </a></td>
 </tr>
 
 </table>
