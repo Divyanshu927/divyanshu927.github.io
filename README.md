@@ -4,7 +4,7 @@
 
         <style>
 body {
-  background-image: url('https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?cs=srgb&dl=pexels-eberhard-grossgasteiger-844297.jpg&fm=jpg');
+  background-image: url('https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?cs=srgb&dl=pexels-pixabay-268533.jpg&fm=jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
@@ -20,7 +20,7 @@ body {
   
           <br/>
           <h3 align="center">
-              <font face="Lato" size="6" color="#000000">WELCOME</font>
+              <font face="Lato" size="6" color="#FFFFFF">WELCOME</font>
 		   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -52,7 +52,7 @@ body {
                  
              
               <h1 align="center">
-          <font face="Lato" color ="#000000">
+          <font face="Lato" color ="#FFFFFF">
               POEM 1
 	     
 		   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -62,7 +62,7 @@ body {
 			   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 		  <img src="darkjar.png" height="400" width="400">
               <h3 align="center">
-                  <font face="Lato" color="#000000" size="5">
+                  <font face="Lato" color="#FFFFFF" size="5">
                      
                                        
 
@@ -84,7 +84,7 @@ body {
 			   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 			  <b> STEADYDARK </b>
 			   <h1 align="center">
-          <font face="Lato" color ="#000000">
+          <font face="Lato" color ="#FFFFFF">
               POEM 2
 		   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 			   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -93,7 +93,7 @@ body {
 			   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 		   <img src="cuckoo.png">
               <h3 align="center">
-                  <font face="Lato" color="#000000" size="5">
+                  <font face="Lato" color="#FFFFFF" size="5">
 			  
 			  
 			  <b>Cuckoo And Happiness</b>
@@ -113,7 +113,7 @@ body {
 			   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 			  <b> STEADYDARK </b>
 <h1 align="center">
-          <font face="Lato" color ="#000000">
+          <font face="Lato" color ="#FFFFFF">
               POEM 3
 		   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 			   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -122,7 +122,7 @@ body {
 			   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 		  <img src="kid.png">
               <h3 align="center">
-                  <font face="Lato" color="#000000" size="5">
+                  <font face="Lato" color="#FFFFFF" size="5">
 			  
 			  <b> Be like </b>
 			
@@ -142,6 +142,7 @@ body {
 			  <b> STEADYDARK </b>
 			  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 			  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+			  <p> Visitor Counter <p>
 			 
 			 
 			  <!-- hitwebcounter Code START -->
