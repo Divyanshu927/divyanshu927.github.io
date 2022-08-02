@@ -142,7 +142,7 @@ body {
 			  <b> STEADYDARK </b>
 			  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 			  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-			  <p> Visitor Counter <p>
+			  <p> (Visitor Counter) <p>
 			 
 			 
 			  <!-- hitwebcounter Code START -->
