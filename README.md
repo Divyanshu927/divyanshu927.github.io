@@ -31,6 +31,7 @@ body {
                  <p> <a href="#">STORIES</a></p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                   <p><a href="blog.html">BLOGS</a></p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 		  <p><a href="poem.html">POEMS</a></p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+		  <p><a href="#">My Drawings</a></p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 			    <font face="Lato" color ="#FFFFFF">
 				    <h1> HOME </h1>
 				    <h3> This is a student website for various purposes such as blogs, stories, poems and essays.</h3>
