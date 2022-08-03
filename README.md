@@ -20,7 +20,7 @@ body {
   
           <br/>
           <h3 align="center">
-              <font face="Lato" size="6" color="#FFFFFF">WELCOME &#128151; &#128151;</font>
+              <font face="Lato" size="6" color="#000000">WELCOME &#128151; &#128151;</font>
 		   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -33,8 +33,8 @@ body {
                   <a href="#">ESSAYS</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                   <a href="#">STORIES</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                   <a href="https://divyanshusharma27.blogspot.com">BLOGS</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-		  <a href="websit.html">ESSAYS</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-			  <font face="Lato" color ="#FFFFFF">
+		  <a href="websit.html">POEMS</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+			  <font face="Lato" color ="#000000">
 			 <h1> Contact Writer </h1>
 				   <font face="Lato" color ="#000000">
 <table border="1" background="transparent">  
@@ -54,7 +54,7 @@ body {
 
               
                  
-             
+              <font face="Lato" color ="#000000">
 			  <p> (Visitor Counter) <p>
 			 
 			 
