@@ -40,7 +40,7 @@ body {
 				    <p> Thank You for visiting the website. Please have a look at published writings. </p>
 			  <font face="Lato" color ="#FFFFFF">
 			 <h1> Contact Writer </h1>
-				   <font face="Lato" color ="#FFFFFF">
+				   <font face="Lato" color ="#000000">
 <table border="1" background="transparent">  
 <tr>
 <th>Instagram </th>
