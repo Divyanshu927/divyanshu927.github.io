@@ -31,9 +31,9 @@ body {
                   
                   
 		  <p><a href="#">ESSAYS</a></p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                  <a href="#">STORIES</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                  <a href="https://divyanshusharma27.blogspot.com">BLOGS</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-		  <a href="websit.html">POEMS</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                 <p> <a href="#">STORIES</a></p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                  <p><a href="https://divyanshusharma27.blogspot.com">BLOGS</a></p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+		  <p><a href="websit.html">POEMS</a></p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 			    <font face="Lato" color ="#FFFFFF">
 				    <h1> HOME </h1>
 				    <h3> This is a student website for various purposes such as blogs, stories, poems and esays.</h3>
