@@ -29,7 +29,7 @@ body {
                   
 		  <p><a href="#">ESSAYS</a></p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                  <p> <a href="#">STORIES</a></p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                  <p><a href="https://divyanshusharma27.blogspot.com">BLOGS</a></p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                  <p><a href="blog.html">BLOGS</a></p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 		  <p><a href="poem.html">POEMS</a></p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 			    <font face="Lato" color ="#FFFFFF">
 				    <h1> HOME </h1>
