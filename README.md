@@ -33,7 +33,7 @@ body {
 		  <p><a href="poem.html">POEMS</a></p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 			    <font face="Lato" color ="#FFFFFF">
 				    <h1> HOME </h1>
-				    <h3> This is a student website for various purposes such as blogs, stories, poems and esays.</h3>
+				    <h3> This is a student website for various purposes such as blogs, stories, poems and essays.</h3>
 				    <h3> Thank You for visiting the website. Please have a look at published writings. </h3>
 				     <h3 align="center">
               <font face="Lato" size="6"><a href="#">ABOUT</a></font>
