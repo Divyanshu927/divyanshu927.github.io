@@ -36,8 +36,8 @@ body {
 		  <a href="websit.html">POEMS</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 			    <font face="Lato" color ="#FFFFFF">
 				    <h1> HOME </h1>
-				    <p> This is a student website for various purposes such as blogs, stories, poems and esays.</p>
-				    <p> Thank You for visiting the website. Please have a look at published writings. </p>
+				    <h3> This is a student website for various purposes such as blogs, stories, poems and esays.</h3>
+				    <h3> Thank You for visiting the website. Please have a look at published writings. </h3>
 			  <font face="Lato" color ="#FFFFFF">
 			 <h1> Contact Writer </h1>
 				   <font face="Lato" color ="#000000">
