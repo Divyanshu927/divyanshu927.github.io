@@ -21,24 +21,29 @@ body {
           <br/>
           <h3 align="center">
               <font face="Lato" size="6" color="#FFFFFF">WELCOME &#128151; &#128151;</font>
+		   
+
+
+              
+                  
+                  
+		  <p><a href="#">ESSAYS</a></p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                 <p> <a href="#">STORIES</a></p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                  <p><a href="https://divyanshusharma27.blogspot.com">BLOGS</a></p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+		  <p><a href="poem.html">POEMS</a></p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+			    <font face="Lato" color ="#FFFFFF">
+				    <h1> HOME </h1>
+				    <h3> This is a student website for various purposes such as blogs, stories, poems and esays.</h3>
+				    <h3> Thank You for visiting the website. Please have a look at published writings. </h3>
+				     <h3 align="center">
+              <font face="Lato" size="6"><a href="#">ABOUT</a></font>
 		   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 
-              
-                  
-                  <a href="fk.html">ABOUT&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                  <a href="#">ESSAYS</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                  <a href="#">STORIES</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                  <a href="https://divyanshusharma27.blogspot.com">BLOGS</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-		  <a href="websit.html">POEMS</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-			    <font face="Lato" color ="#FFFFFF">
-				    <h1> HOME </h1>
-				    <p> This is a student website for various purposes such as blogs, stories, poems and esays.</p>
-				    <p> Thank You for visiting the website. Please have a look at published writings. </p>
-			  <font face="Lato" color ="#FFFFFF">
+				   
 			 <h1> Contact Writer </h1>
 				   <font face="Lato" color ="#000000">
 <table border="1" background="transparent">  
@@ -54,7 +59,7 @@ body {
 </tr>
 
 </table>
-              
+					    
 
               
                  
