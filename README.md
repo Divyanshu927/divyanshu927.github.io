@@ -46,6 +46,7 @@ body {
 
 				   
 			 <h1> Contact Writer </h1>
+			 <h3 align="center">
 				   <font face="Lato" color ="#000000">
 <table border="1" background="transparent">  
 <tr>
@@ -54,8 +55,8 @@ body {
 
  </tr>
 <tr>
-<td><a href="https://www.instagram.com/steadydark/"> Click Me </a></td>
-<td><a href="https://t.me/Steadydark"> Click Me </a></td>
+<td><a href="https://www.instagram.com/steadydark/"><img src="instagram.png" height="50" width="50"> </a></td>
+<td><a href="https://t.me/Steadydark"> <img src="telegram.png" height="50" width="50"></a></td>
 	
 </tr>
 
