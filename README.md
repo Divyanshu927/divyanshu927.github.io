@@ -30,7 +30,7 @@ body {
                  <p> <a href="#">STORIES</a></p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                   <p><a href="blog.html">BLOGS</a></p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 		  <p><a href="poem.html">POEMS</a></p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-		  <p><a href="drawing.html"> Drawings</a></p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+		  <p><a href="drawing.html"> DRAWINGS</a></p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 		  <p><a href="password.html"> SOME STUFF</a></p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 		 
 			    <font face="Lato" color ="#FFFFFF">
