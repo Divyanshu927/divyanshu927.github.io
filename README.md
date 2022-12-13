@@ -78,8 +78,8 @@ body {
 
  </tr>
 <tr>
-<td><a href="https://www.instagram.com/steady_dark/"><img src="instagram.png" height="50" width="50"> </a></td>
-<td><a href="https://t.me/SteadyDark"> <img src="telegram.png" height="50" width="50"></a></td>
+<p><td><a href="https://www.instagram.com/steady_dark/"><img src="instagram.png" height="50" width="50"> </a></td>
+	<td><a href="https://t.me/SteadyDark"> <img src="telegram.png" height="50" width="50"></a></td></P>
 	
 </tr>
 
