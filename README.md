@@ -27,10 +27,10 @@ body {
                   
                   
 		  
-                  <p><a href="blog.html">BLOGS</a></p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-		  <p><a href="poem.html">POEMS</a></p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-		  <p><a href="drawing.html"> DRAWINGS</a></p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-		  <p><a href="password.html"> SOME STUFF</a></p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                  <p><a href="blog.html">BLOGS</a> &nbsp; &nbsp; &nbsp; 
+		  <a href="poem.html">POEMS</a></p> &nbsp; &nbsp; &nbsp; 
+		  <p><a href="drawing.html"> DRAWINGS</a> &nbsp; &nbsp; &nbsp;
+		  <a href="password.html"> SOME STUFF</a></p> &nbsp; &nbsp; &nbsp; 
 		 
 			    <font face="Lato" color ="#FFFFFF">
 				    <hr><h1> HOME </h1><hr>
@@ -42,6 +42,27 @@ body {
                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+	<h2>Leave a Comment</h2>
+
+  <form action="post_comment.php" method="post" id="commentform">
+
+    <label for="comment_author" class="required"></label>
+    <input type="text" name="comment_author" placeholder="Full Name..." id="comment_author" value="" tabindex="1" required="required">
+
+    <label for="email" class="required"></label>
+    <input type="email" name="email" placeholder="Email Address..."id="email" value="" tabindex="2" required="required">
+
+    <label for="comment" class="required"></label>
+    <textarea name="comment" placeholder="Type Your Comment..." id="comment" rows="10" tabindex="4"  required="required"></textarea>
+
+    <!-- comment_post_ID value hard-coded as 1 -->
+    <input type="hidden" name="comment_post_ID" value="<?php echo($comment_post_ID); ?>" id="comment_post_ID" />
+    <input name="submit" type="submit" value="Submit comment" />
+
+  </form>
+
+</div>       
+	       
 
 
 				   
