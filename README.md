@@ -27,10 +27,7 @@ body {
                   
                   
 		  
-                  <p><a href="blog.html">BLOGS</a> &nbsp; &nbsp; &nbsp; 
-		  <a href="poem.html">POEMS</a></p> &nbsp; &nbsp; &nbsp; 
-		  <p><a href="drawing.html"> DRAWINGS</a> &nbsp; &nbsp; &nbsp;
-		  <a href="password.html"> SOME STUFF</a></p> &nbsp; &nbsp; &nbsp; 
+                  
 		 
 			    <font face="Lato" color ="#FFFFFF">
 				    <hr><h1> HOME </h1><hr>
