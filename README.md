@@ -47,10 +47,7 @@ body {
 				    <h3> Thank You for visiting the website. Please have a look at published writings. </h3>
 				     <h3 align="center">
               <font face="Lato" size="6"><a href="about.html">ABOUT</a></font>
-		   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-               &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+		   
 	         <nav><ul>
     <li><a href="blog.html">BLOGS</a> </li> 
 		 <li> <a href="poem.html">POEMS</a></li> 
