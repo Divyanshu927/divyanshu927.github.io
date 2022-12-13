@@ -22,7 +22,7 @@ body {
   <link rel="stylesheet" type="text/css" media="all" href="css/ie6.css"/><![endif]-->
 </head>
 	
-</head>
+
 
 
    
