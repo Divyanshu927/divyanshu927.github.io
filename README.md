@@ -59,7 +59,7 @@ body {
 	</ul></nav>
 	<div>
 	<h2>Leave a Comment</h2>
-		<font face="Lato" size="3"><a href="about.html">ABOUT</a></font>
+		
 
   <form action="post_comment.php" method="post" id="commentform">
 
