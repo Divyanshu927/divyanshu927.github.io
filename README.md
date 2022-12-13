@@ -19,7 +19,7 @@ body {
   
           <br/>
           <h3 align="center">
-              <font face="Lato" size="6" color="#FFFFFF">WELCOME </font>
+              
 		   
 
 
@@ -42,6 +42,10 @@ body {
                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+	        <p><a href="blog.html">BLOGS</a> &nbsp; &nbsp; &nbsp; 
+		  <a href="poem.html">POEMS</a></p> &nbsp; &nbsp; &nbsp; 
+		  <p><a href="drawing.html"> DRAWINGS</a> &nbsp; &nbsp; &nbsp;
+		  <a href="password.html"> SOME STUFF</a></p> &nbsp; &nbsp; &nbsp; 
 	<div>
 	<h2>Leave a Comment</h2>
 
