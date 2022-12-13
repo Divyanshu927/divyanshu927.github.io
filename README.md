@@ -55,7 +55,7 @@ body {
 		  <li><a href="password.html"> SOME STUFF</a> </li>
 	</ul></nav>
 	<div>
-	<h2>Leave a Comment</h2>
+	<h2>Leave a comment</h2>
 		
 
   <form action="post_comment.php" method="post" id="commentform">
