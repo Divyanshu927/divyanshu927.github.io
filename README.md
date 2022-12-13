@@ -70,7 +70,7 @@ body {
     <p><input type="email" name="email" placeholder="Email Address..." id="email" value="" tabindex="2" required="required"></p>
 
     <label for="comment" class="required"></label>
-   <p> <textarea name="comment" placeholder="Type Your Comment..." id="comment" rows="4" tabindex="4"  required="required"></textarea></p>
+   <p> <textarea name="comment" placeholder="Type Your Comment..." id="comment" rows="6" tabindex="4"  required="required"></textarea></p>
 
     <!-- comment_post_ID value hard-coded as 1 -->
     <input type="hidden" name="comment_post_ID" value="<?php echo($comment_post_ID); ?>" id="comment_post_ID" />
