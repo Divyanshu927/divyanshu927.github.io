@@ -12,6 +12,7 @@ body {
 </style>
 	
 </head>
+<link rel="stylesheet" href="css/main.css" type="text/css" />
 
    
 
