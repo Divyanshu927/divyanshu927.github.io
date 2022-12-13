@@ -43,7 +43,7 @@ body {
 	         <nav><ul>
     <li><a href="blog.html">BLOGS</a> </li> 
 		 <li> <a href="poem.html">POEMS</a></li> 
-		 <li><p><a href="drawing.html"> DRAWINGS</a> </li>
+		 <li><a href="drawing.html"> DRAWINGS</a> </li>
 		  <li><a href="password.html"> SOME STUFF</a> </li>
 	</ul></nav>
 	<div>
