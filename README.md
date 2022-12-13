@@ -42,6 +42,7 @@ body {
                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+	<div>
 	<h2>Leave a Comment</h2>
 
   <form action="post_comment.php" method="post" id="commentform">
@@ -50,7 +51,7 @@ body {
     <input type="text" name="comment_author" placeholder="Full Name..." id="comment_author" value="" tabindex="1" required="required">
 
     <label for="email" class="required"></label>
-    <input type="email" name="email" placeholder="Email Address..."id="email" value="" tabindex="2" required="required">
+    <input type="email" name="email" placeholder="Email Address..." id="email" value="" tabindex="2" required="required">
 
     <label for="comment" class="required"></label>
     <textarea name="comment" placeholder="Type Your Comment..." id="comment" rows="10" tabindex="4"  required="required"></textarea>
