@@ -39,12 +39,15 @@ body {
                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-	        <p><a href="blog.html">BLOGS</a> &nbsp; &nbsp; &nbsp; 
-		  <a href="poem.html">POEMS</a></p> &nbsp; &nbsp; &nbsp; 
-		  <p><a href="drawing.html"> DRAWINGS</a> &nbsp; &nbsp; &nbsp;
-		  <a href="password.html"> SOME STUFF</a></p> &nbsp; &nbsp; &nbsp; 
+	         <nav><ul>
+    <li<a href="blog.html">BLOGS</a> </li> 
+		 <li> <a href="poem.html">POEMS</a></p></li> 
+		 <li> <li><p><a href="drawing.html"> DRAWINGS</a> </li>
+		  <li><a href="password.html"> SOME STUFF</a></p> </li>
+	</ul></nav>
 	<div>
 	<h2>Leave a Comment</h2>
+		<font face="Lato" size="3"><a href="about.html">ABOUT</a></font>
 
   <form action="post_comment.php" method="post" id="commentform">
 
