@@ -7,7 +7,7 @@
 #respond textarea {
   margin-bottom: 10px;
   display: block;
-  width: 100%;
+  width: 50%;
 
   border: 1px solid rgba(0, 0, 0, 0.1);
   -webkit-border-radius: 5px;
