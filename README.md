@@ -3,7 +3,7 @@
 
         <style>
 body {
-  background-image: url('https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?cs=srgb&dl=pexels-pixabay-268533.jpg&fm=jpg');
+  background-image: url('https://images.pexels.com/photos/4737484/pexels-photo-4737484.jpeg?auto=compress&cs=tinysrgb&w=2000');
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
