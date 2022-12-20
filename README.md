@@ -45,7 +45,7 @@ body {
 				    <hr><h1> HOME </h1><hr>
 				    <h3> This is a student website for various purposes such as blogs, poems and drawings.</h3>
 				    <h3> Thank You for visiting the website. Please have a look at published writings. </h3>
-				     <h3 align="center">
+				     <h3 align="left">
               <font face="Lato" size="6"><a href="about.html">ABOUT</a></font>
 		   
 	         <nav><ul>
@@ -54,28 +54,7 @@ body {
 		 <li><a href="drawing.html"> DRAWINGS</a> </li>
 		  <li><a href="password.html"> SOME STUFF</a> </li>
 	</ul></nav>
-	<div>
-	<h2>Leave a comment</h2>
-		
-
-  <form action="post_comment.php" method="post" id="commentform">
-
-    <label for="comment_author" class="required"></label>
-  <p>  <input type="text" name="comment_author" placeholder="Full Name..." id="comment_author" value="" tabindex="1" required="required"></p>
-
-    <label for="email" class="required"></label>
-    <p><input type="email" name="email" placeholder="Email Address..." id="email" value="" tabindex="2" required="required"></p>
-
-    <label for="comment" class="required"></label>
-   <p> <textarea name="comment" placeholder="Type Your Comment..." id="comment" rows="6" tabindex="4"  required="required"></textarea></p>
-
-    <!-- comment_post_ID value hard-coded as 1 -->
-    <input type="hidden" name="comment_post_ID" value="<?php echo($comment_post_ID); ?>" id="comment_post_ID" />
-   <p> <input name="submit" type="submit" value="Submit comment" /></p>
-
-  </form>
-
-</div>       
+	     
 	       
 
 
