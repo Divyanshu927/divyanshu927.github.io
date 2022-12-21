@@ -84,7 +84,7 @@ body {
 		 
 			    <font face="Lato" color ="#FFFFFF">
 				    <hr><h1> HOME </h1><hr>
-				    <h3> This is a student website for various purposes such as sharing blogs, poems, drawings and music.</h3>
+				    <h3> This is a student website for various purposes such as sharing blogs, poems, drawings, books and music.</h3>
 				    <h3> Thank You for visiting the website. Please have a look at published writings. </h3>
 				     
 		   
