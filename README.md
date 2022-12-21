@@ -66,7 +66,7 @@ body {
   <a href="music.html">Music</a>
   <a href="drawing.html">Drawings</a>
   <a href="#contact">Videos</a>
-  <a href="#contact">Books</a>
+  <a href="books.html">Books</a>
   <a href="about.html">About</a>
 </div>
 
