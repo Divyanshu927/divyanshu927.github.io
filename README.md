@@ -43,7 +43,7 @@ body {
 <body>
 
 <div class="topnav">
-  <a class="active" href="#home">Home</a>
+  <a class="active" href="home.html">Home</a>
   <a href="blog.html">Blog</a>
   <a href="poem.html">Poems</a>
   <a href="music.html">Music</a>
