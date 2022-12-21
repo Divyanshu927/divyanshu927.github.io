@@ -38,6 +38,16 @@ body {
   background-color: #04AA6D;
   color: white;
 }
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+} 
+@-ms-viewport {
+  width: device-width ;
+} 
+@media screen and (max-width:320px) {
+  /* CSS for screens that are 320 pixels or less will be put in this section */
+}
 </style>
 </head>
 <body>
