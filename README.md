@@ -58,7 +58,7 @@ body {
 </style>
 </head>
 <body>
-
+<div class="navbar">
 <div class="topnav">
   <a class="active" href="home.html">Home</a>
   <a href="blog.html">Blog</a>
@@ -69,7 +69,7 @@ body {
   <a href="books.html">Books</a>
   <a href="about.html">About</a>
 </div>
-
+</div>
 <div style="padding-left:16px">
           <h3 align="center">
              
