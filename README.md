@@ -1,7 +1,6 @@
 <html lang="en">
 <head>
-
-        <style>
+ <style>
 body {
   background-image: url('https://images.pexels.com/photos/4737484/pexels-photo-4737484.jpeg?auto=compress&cs=tinysrgb&w=2000');
   background-repeat: no-repeat;
@@ -9,29 +8,56 @@ body {
   background-size: cover;
 }
 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
 </style>
-	
-<link rel="stylesheet" href="css/main.css" type="text/css" />
-
-<!--[if IE]>
-  <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-<!--[if lte IE 7]>
-  <script src="js/IE8.js" type="text/javascript"></script><![endif]-->
-<!--[if lt IE 7]>
-
-  <link rel="stylesheet" type="text/css" media="all" href="css/ie6.css"/><![endif]-->
 </head>
-	
+<body>
 
+<div class="topnav">
+  <a class="active" href="#home">Home</a>
+  <a href="blog.html">Blog</a>
+  <a href="poem.html">Poems</a>
+  <a href="music.html">Music</a>
+  <a href="drawing.html">Drawings</a>
+  <a href="#contact">Videos</a>
+  <a href="#contact">Books</a>
+  <a href="about.html">About</a>
+</div>
 
-
-   
-
-<body background="https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?cs=srgb&dl=pexels-pixabay-268533.jpg&fm=jpg" align="center" >
-  
-          <br/>
+<div style="padding-left:16px">
           <h3 align="center">
-              
+              </div>
+
+</body>
 		   
 
 
