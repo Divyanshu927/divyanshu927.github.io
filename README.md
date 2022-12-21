@@ -69,12 +69,11 @@ body {
 				    <hr><h1> HOME </h1><hr>
 				    <h3> This is a student website for various purposes such as sharing blogs, poems, drawings and music.</h3>
 				    <h3> Thank You for visiting the website. Please have a look at published writings. </h3>
-				     <h3 align="left">
-              <font face="Lato" size="6"><a href="about.html">ABOUT</a></font>
+				     
 		   
 	        
 	     
-	  
+	   <h3 align="center">
 
 				   
 			 <h1> Contact Writer </h1>
