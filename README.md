@@ -17,6 +17,12 @@ body {
 @media screen and (max-width:320px) {
   /* CSS for screens that are 320 pixels or less will be put in this section */
 }
+	 @media screen and (orientation:portrait) {
+  /* ... */
+}
+@media screen and (orientation: landscape) {
+  /* ... */
+} 
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
