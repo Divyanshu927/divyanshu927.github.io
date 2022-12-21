@@ -55,9 +55,7 @@ body {
 
 <div style="padding-left:16px">
           <h3 align="center">
-              </div>
-
-</body>
+             
 		   
 
 
@@ -74,15 +72,9 @@ body {
 				     <h3 align="left">
               <font face="Lato" size="6"><a href="about.html">ABOUT</a></font>
 		   
-	         <nav><ul>
-    <li><a href="blog.html">BLOGS</a> </li> 
-		 <li> <a href="poem.html">POEMS</a></li> 
-		 <li><a href="drawing.html"> DRAWINGS</a> </li>
-		  <li><a href="music.html"> MUSIC</a> </li>
-	</ul></nav>
+	        
 	     
-	       
-
+	  
 
 				   
 			 <h1> Contact Writer </h1>
