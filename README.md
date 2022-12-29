@@ -34,8 +34,7 @@ body {
 .topnav {
   overflow: hidden;
   background-color: #333;
-  position: fixed;
-top: 0;
+ 
 }
 
 .topnav a {
