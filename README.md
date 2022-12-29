@@ -34,6 +34,8 @@ body {
 .topnav {
   overflow: hidden;
   background-color: #333;
+  position: fixed;
+top: 0;
 }
 
 .topnav a {
@@ -43,7 +45,7 @@ body {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-}
+  }
 
 .topnav a:hover {
   background-color: #ddd;
